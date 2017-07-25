@@ -23,7 +23,7 @@ angular.module('myApp', []).
         },
         {
           name: '专业技能',
-          content: '前端方面熟练使用gulp、Bootstrap、Angular、Ionic、Css、Jsp、JavaSctipt、Html、Jquery技术。java方面熟练使用SpringMVC、Struts2、Hibernate、Maven主流框架； 数据库方面熟练使用关系型数据库 mysql、oracle、sqlserver和非关系型数据库 mongodb； 项目管理方面熟练使用git进行版本管理，个人git(https://github.com/mzl1988)。微信第三方开发熟练。'
+          content: '前端方面熟练使用gulp、Bootstrap、Angular、Angular2、Ionic、Ionic2、Css、Jsp、JavaSctipt、Html、Jquery技术。java方面熟练使用SpringMVC、Struts2、Hibernate、Maven主流框架； 数据库方面熟练使用关系型数据库 mysql、oracle、sqlserver和非关系型数据库 mongodb； 项目管理方面熟练使用git进行版本管理，个人git(https://github.com/mzl1988)。微信第三方开发熟练。'
         },
         {
           name: '办公技能',
